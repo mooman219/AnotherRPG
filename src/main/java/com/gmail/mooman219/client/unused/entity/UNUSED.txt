@@ -1,0 +1,3 @@
+ENTITIES ARE CURRENTLY NOT IMPLEMENTED OR BEING USED.
+
+This is until I get my shit togeather with the world and geo stuff.
